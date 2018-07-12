@@ -86,3 +86,4 @@ function indexFinder(arr){
 indexFinder(randomNumbers);
 console.log(indexes);
 
+//final edit
